@@ -10,6 +10,4 @@ class Joke
     @setup = setup
     @punchline = punchline
   end
-
-
 end

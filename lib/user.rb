@@ -16,4 +16,8 @@ class User
   def tell(name, joke)
     name.learn(joke)
   end
+
+  def joke_by_id(id)
+    @joke[0]
+  end
 end
